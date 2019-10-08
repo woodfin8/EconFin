@@ -7,6 +7,6 @@ Data collected from the Hong Kong Exchange's website. Python used to merge, clea
 
 Python script, jupyter notebook file and csv's included in the GitHub folder. 
 
-Findings summarized on HK_CBBC.pdf
+Findings summarized on HK_analysis.pdf
 
 Dependencies used: glob, pandas, matplotlib, numpy
