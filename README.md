@@ -1,5 +1,3 @@
-# EconFin
-Project Summaries
 
 # HK_CBBC
 
